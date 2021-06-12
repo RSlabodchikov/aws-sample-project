@@ -1,0 +1,4 @@
+# idea settings package
+.idea
+
+/aws-sample-project.iml
