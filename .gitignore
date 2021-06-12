@@ -1,4 +1,4 @@
 # idea settings package
 .idea
-
-/aws-sample-project.iml
+*.iml
+/custom-lambda/events/target/
